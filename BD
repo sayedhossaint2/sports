@@ -4,8 +4,7 @@
 #EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", T SPORTS
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634682932&md5=yBDAUVt_37IYHcej8vMLAA&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634838572&md5=HtU1G5jmbR_BcZNDOY6sfQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", G TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634683416&md5=CrNtEJFwkDeW4IfkTGSa-Q&user=ef3b0701f26743a4a12ce79435bc6d0d
-
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634838515&md5=Vj19Xi5jfpoeYOIXCcxpNg&user=ef3b0701f26743a4a12ce79435bc6d0d
 
