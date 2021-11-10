@@ -4,11 +4,11 @@
 #EXTM3U url-tvg=""
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="SPORTS", T SPORTS
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1636578225&md5=qsS4QBsHNkPtDZqpHEa9WQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1636772834&md5=G4R5jzC_G4x9cLlVL871KQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="SPORTS", T SPORTS flix
 https://last.gcdn.co/IND424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="SPORTS", G TV
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1636578168&md5=TggGwdnvS1mAKBoK1Bse_Q&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1636772879&md5=_1wEIHHaCvKPc_fvTR-YHQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="SPORTS", G TV flix
 http://103.159.4.38:5868/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", L A Sports 
