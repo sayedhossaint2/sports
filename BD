@@ -5,5 +5,27 @@
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="SPORTS", T SPORTS
 https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1636578225&md5=qsS4QBsHNkPtDZqpHEa9WQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg?fit=1284%2C603&ssl=1" group-title="SPORTS", T SPORTS flix
+https://last.gcdn.co/IND424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="SPORTS", G TV
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1636578168&md5=TggGwdnvS1mAKBoK1Bse_Q&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="SPORTS", G TV flix
+http://103.159.4.38:5868/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony TV flix
+http://65.2.4.240/jioo.php?c=Sony_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Colors TV flix
+http://65.2.4.240/jioo.php?c=Colors_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", & Picture flix
+http://65.2.4.240/jioo.php?c=And_Pictures_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", & Zee tv flix
+http://65.2.4.240/jioo.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Hungama TV flix
+https://live.hungama.com/linear/dhamaal/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", & TV HD flix
+http://65.2.4.240/jioo.php?c=And_TV_HD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", & Siyatha flix
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", & Sony 8 flix
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", & Zee Bangla flix
+http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=junk.m3u8
