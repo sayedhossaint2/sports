@@ -11,21 +11,63 @@ https://last.gcdn.co/IND424/tracks-v1a1/mono.m3u8
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1636578168&md5=TggGwdnvS1mAKBoK1Bse_Q&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="SPORTS", G TV flix
 http://103.159.4.38:5868/BD-BANGLA-8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony TV flix
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", L A Sports 
+http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Ten 1 
+http://65.2.4.240/jioo.php?c=Ten_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Ten 2 
+http://65.2.4.240/jioo.php?c=Ten2_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Ten 3 
+http://65.2.4.240/jioo.php?c=Ten3_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Six  SD
+http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", jio sports HD
+http://65.2.4.240/jioo.php?c=Jio_Sports&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony TV 
 http://65.2.4.240/jioo.php?c=Sony_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Colors TV flix
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Colors TV
 http://65.2.4.240/jioo.php?c=Colors_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", & Picture flix
+#EXTINF:-1 tvg-logo="" group-title="Hindi", & Picture
 http://65.2.4.240/jioo.php?c=And_Pictures_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", & Zee tv flix
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee TV 
 http://65.2.4.240/jioo.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Hungama TV flix
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee Action TV 
+http://65.2.4.240/jioo.php?c=Zee_Action&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Hungama TV 
 https://live.hungama.com/linear/dhamaal/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", & TV HD flix
+#EXTINF:-1 tvg-logo="" group-title="Hindi", & TV HD 
 http://65.2.4.240/jioo.php?c=And_TV_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", & Siyatha flix
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Siyatha TV
 http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", & Sony 8 flix
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony aath
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", & Zee Bangla flix
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee Bangla 
 http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", B4U flix
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", MTV beats
+http://65.2.4.240/jioo.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Dabangg Tv
+http://65.2.4.240/streamj.php?ts=Dabangg/Dabangg_1200-1636538846000.ts
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Dhamal Tv
+http://65.2.4.240/jioo.php?c=Dhamaal_TV&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Discovery HD
+http://65.2.4.240/jioo.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Animal Planet HD
+http://65.2.4.240/jioo.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Jio Exclusive HD
+http://65.2.4.240/jioo.php?c=Jio_Exclusive&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", History HD
+http://65.2.4.240/jioo.php?c=History_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Travel XP
+http://65.2.4.240/jioo.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony BBC Earth
+http://65.2.4.240/jioo.php?c=Sony_BBC_Earth_HD_English&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Nick
+http://65.2.4.240/jioo.php?c=Nick_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Cartoon Network
+http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
+
+
+
+
