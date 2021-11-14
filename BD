@@ -14,7 +14,11 @@ https://localiptv.tk/Local_IPTV_PLAYLIST/HOTSTAR_AUTO_HINDI.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", L A Sports 
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
 http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="SPORTS", G TV flix
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Gtv 2
 https://38q.gcdn.co/WC2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Star Sports
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Ten 1 
 http://65.2.4.240/jioo.php?c=Ten_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Ten 2 
