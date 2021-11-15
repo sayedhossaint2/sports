@@ -13,10 +13,16 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=qGLCP3ZgaMGBDxq
 https://localiptv.tk/Local_IPTV_PLAYLIST/HOTSTAR_AUTO_HINDI.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", L A Sports 
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
-http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="SPORTS", G TV flix
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Gtv 2
+#EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="SPORTS", G TV2
 https://38q.gcdn.co/WC2/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Bein sports USA
+https://ent.gcdn.co/S26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Directo sports 
+https://dxla3.gcdn.co/SA53/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sky sports
+https://mhdtvworld.co.in/red/tvvv.php?id=3085&e=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Free sports
+https://csm-e-ces1eurxaws102j8-3b4bcbqatk6d.tls1.yospace.com/csm/live/203444271/1.m3u8;jsessionid=D6ECD79B2F57F970924B529627D1735E.csm-e-ces1eurxaws102j8-3b4bcbqatk6d.tls1.yospace.com
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Star Sports
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Ten 1 
