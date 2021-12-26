@@ -3,43 +3,29 @@
 #EXTM3U
 #EXTM3U url-tvg=""
 
-#EXTINF:-1 tvg-logo="" group-title="",Zee Bollywood
-http://208.86.19.21:80/701.stream/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="",Zee Cinema
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony SAB HD
-http://208.86.19.21:80/702.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", &Tv
-http://208.86.19.21:80/703.stream/index.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Zee action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", &Pictures
-http://208.86.19.21:80/705.stream/index.m3u8
+http://208.86.19.21/705.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony max hd 
-http://208.86.19.21:80/706.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Zee Bangla Cinema
-http://208.86.19.21:80/708.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Gold Select HD
-http://208.86.19.21:80/709.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", Star Sports 1 HD
-http://208.86.19.21:80/710.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Ten Sports
-http://208.86.19.21:80/711.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sony ten 2
-http://208.86.19.21:80/712.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sony Ten 3
-http://208.86.19.21:80/713.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sports 2
-http://208.86.19.21:80/715.stream/index.m3u8
- #EXTINF:-1 tvg-logo="" group-title="",Jalsha Movies HD
-http://208.86.19.21:80/716.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ASTRO CRICKET
-http://208.86.19.21:80/720.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star bharat 
-http://208.86.19.21:80/721.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="", UTV 
-http://208.86.19.21:80/723.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sports 1 HD Hindi
-http://208.86.19.21:80/724.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sony ten 1
-http://208.86.19.21:80/726.stream/index.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee Anmol
+http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",UTV HD
+http://208.86.19.21/723.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Wow Cinema
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",B4U Movies
+http://208.86.19.21/831.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Zee Action
 http://208.86.19.21:80/728.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Willow HD
@@ -47,124 +33,76 @@ http://208.86.19.21:80/731.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Star Sports 3
 http://208.86.19.21:80/732.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",B4U music
-http://208.86.19.21:80/733.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Colors Cineplex HD
-http://208.86.19.21:80/735.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sports Select 1 HD
-http://208.86.19.21:80/736.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Sports Select 2 HD
-http://208.86.19.21:80/737.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Sony Six HD
-http://208.86.19.21:80/740.stream/index.m3u8 
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",I Love 
+http://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Star Jalsha
+http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Ekattor TV
 http://208.86.19.21:80/604.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Colors HD
-http://208.86.19.21:80/605.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Zee tv hd
-http://208.86.19.21:80/606.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Plus HD
-http://208.86.19.21:80/607.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PTV Sports
-http://208.86.19.21:80/610.stream/index.m3u8
-
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Star Plus
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Hum tv
 http://208.86.19.21:80/611.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Zee Bangla
-http://208.86.19.21:80/906.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",Star Jalsha
-http://208.86.19.21:80/908.stream/index.m3u8
+http://208.86.19.21/906.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Jalsha Movies
+http://208.86.19.21/716.stream/tracks-v1a1/mono.m3u8
 
+###Sports###
 
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony ten 1 HD
+http://208.86.19.21:80/726.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony ten 1 SD
+http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star Gold Select HD
+http://208.86.19.21:80/709.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports 1 HD
+http://208.86.19.21/724.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Ten Sports
+http://208.86.19.21:80/711.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony ten 2
+http://208.86.19.21/712.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Ten 3
+http://208.86.19.21:80/713.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports 2
+http://208.86.19.21:80/715.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports Select 1 HD
+http://208.86.19.21:80/736.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports Select 2 HD
+http://208.86.19.21:80/737.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Six HD
+http://208.86.19.21:80/740.stream/index.m3u8 
 
-#EXTINF:-1 tvg-logo="" group-title="Movie", G TV
-http://content.discoveryftp.net/Movies/Hindi/2021/Sooryavanshi/Sooryavanshi%20(2021)%201080p%20TRUE%20WEB-DL%20-%20AVC%20-%20(DD+5.1%20-%20192Kbps)%20[Tel%20+%20Tam%20+%20Hin%20+%20Mal%20+%20Kan%20+%20Eng]%20-%20MSub.mkv
-#EXTINF:-1 tvg-logo="" group-title="Movie", Atrangi re
-http://content.discoveryftp.net/Movies/Hindi/2021/Atrangi%20Re/Atrangi%20Re%202021%201080p%20WEB-DL%20DDP5.1%20H264-PHDM.mkv
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", L A Sports 
+#EXTINF:-1 tvg-logo="" group-title="Sports", L A Sports 
 http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://gazitv.com/wp-content/uploads/2021/04/logo1-1.png" group-title="SPORTS", G TV2
-https://38q.gcdn.co/WC2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Bein sports USA
-https://ent.gcdn.co/S26/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Directo sports 
-https://dxla3.gcdn.co/SA53/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sky sports
-https://mhdtvworld.co.in/red/tvvv.php?id=3085&e=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Free sports
-https://csm-e-ces1eurxaws102j8-3b4bcbqatk6d.tls1.yospace.com/csm/live/203444271/1.m3u8;jsessionid=D6ECD79B2F57F970924B529627D1735E.csm-e-ces1eurxaws102j8-3b4bcbqatk6d.tls1.yospace.com
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Star Sports
-http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Ten 1 
-http://65.2.4.240/jioo.php?c=Ten_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Ten 2 
-http://65.2.4.240/jioo.php?c=Ten2_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Ten 3 
-http://65.2.4.240/jioo.php?c=Ten3_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Sony Six  SD
-http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", jio sports HD
-http://65.2.4.240/jioo.php?c=Jio_Sports&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", PTV Sports
+http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Geo sports
+http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Star sports select 1 hd
+http://208.86.19.21/736.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Star sports select 2 hd
+http://208.86.19.21/737.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Star sports 3
+http://208.86.19.21/732.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Star sports 2
+http://208.86.19.21/735.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Sony TV 
-http://65.2.4.240/jioo.php?c=Sony_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Colors TV
-http://65.2.4.240/jioo.php?c=Colors_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", & Picture
-http://65.2.4.240/jioo.php?c=And_Pictures_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee TV 
-http://65.2.4.240/jioo.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee Action TV 
-http://65.2.4.240/jioo.php?c=Zee_Action&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Zing TV 
-http://65.2.4.240/jioo.php?c=Zing&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Hungama TV 
-https://live.hungama.com/linear/dhamaal/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", & TV HD 
-http://65.2.4.240/jioo.php?c=And_TV_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Siyatha TV
-http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony aath
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee Bangla 
-http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=junk.m3u8
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee Cinemas
+http://208.86.19.21/708.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", B4U flix
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Music India 
-http://65.2.4.240/jioo.php?c=Music_India&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", MTV beats
-http://65.2.4.240/jioo.php?c=MTV_Beats_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Dabangg Tv
-http://65.2.4.240/streamj.php?ts=Dabangg/Dabangg_1200-1636538846000.ts
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Dhamal Tv
-http://65.2.4.240/jioo.php?c=Dhamaal_TV&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", 9XM Tv
-http://65.2.4.240/jioo.php?c=9XM&q=1200&e=junk.m3u8
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", 9XJalwa Tv
-http://65.2.4.240/jioo.php?c=9X_Jalwa&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", 9XJhakaas Tv
-http://65.2.4.240/jioo.php?c=9x_Jhakaas&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Sangeet Bangla Tv
-http://65.2.4.240/jioo.php?c=Sangeet_Bangla&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Discovery HD
-http://65.2.4.240/jioo.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Discovery Bengali HD
-http://65.2.4.240/jioo.php?c=Discovery_Channel_Bengali&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Animal Planet HD
-http://65.2.4.240/jioo.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Jio Exclusive HD
-http://65.2.4.240/jioo.php?c=Jio_Exclusive&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", History HD
-http://65.2.4.240/jioo.php?c=History_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", History Hindi HD
-http://65.2.4.240/jioo.php?c=History_18_Hindi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORTS", Travel XP
-http://65.2.4.240/jioo.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony BBC Earth
-http://65.2.4.240/jioo.php?c=Sony_BBC_Earth_HD_English&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Nick
-http://65.2.4.240/jioo.php?c=Nick_Hindi&q=1200&e=junk.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Cartoon Network
-http://65.2.4.240/jioo.php?c=Cartoon_Network_Hindi&q=1200&e=junk.m3u8
-
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Dil Se Tv
+https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
 
 
 
