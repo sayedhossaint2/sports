@@ -3,12 +3,18 @@
 #EXTM3U
 #EXTM3U url-tvg=""
 
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony TV 
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee Cinemas
+http://208.86.19.21/708.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony SAB HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Zee action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Zee Action
+http://208.86.19.21:80/728.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", &Pictures
 http://208.86.19.21/705.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Sony max hd 
@@ -25,9 +31,16 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",B4U Movies
 http://208.86.19.21/831.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", B4U flix
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", 9XM Tv
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", 9XJalwa Tv
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Dil Se Tv
+https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="",Zee Action
-http://208.86.19.21:80/728.stream/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="",Willow HD
 http://208.86.19.21:80/731.stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", Star Sports 3
@@ -91,18 +104,6 @@ http://208.86.19.21/737.stream/tracks-v1a1/mono.m3u8
 http://208.86.19.21/732.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Star sports 2
 http://208.86.19.21/735.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony TV 
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee Cinemas
-http://208.86.19.21/708.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", B4U flix
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", 9XM Tv
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", 9XJalwa Tv
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Dil Se Tv
-https://live.hungama.com/linear/dil-se/playlist_1080p/index.m3u8
 
 
 
