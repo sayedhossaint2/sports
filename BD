@@ -179,7 +179,7 @@ http://208.86.19.21/737.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Star sports 3
 http://208.86.19.21/732.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Star sports 2
-http://208.86.19.21/735.stream/tracks-v1a1/mono.m3u8
+http://84.16.224.202:8080/LE_1/tracks-v1a1/mono.m3u8
 
 
 
