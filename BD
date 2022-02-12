@@ -5,32 +5,19 @@
 
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Sony TV 
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Zee Cinemas
-http://208.86.19.21/708.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Zee Cinema
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi",Sony SAB HD
+#EXTINF:-1 tvg-logo="" group-title="Hindi",zee cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Zee action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi",Zee Action
-http://208.86.19.21:80/728.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", &Pictures
-http://208.86.19.21/705.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Sony max hd 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Zee Anmol
 http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi",UTV HD
-http://208.86.19.21/723.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi",Wow Cinema
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi", Box Cinema
-https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi",B4U Movies
-http://208.86.19.21/831.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Hindi", B4U flix
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", 9XM Tv
@@ -181,5 +168,766 @@ http://208.86.19.21/732.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Star sports 2
 http://84.16.224.202:8080/LE_1/tracks-v1a1/mono.m3u8
 
+
+#######################TATA#############################
+
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  STAR Plus FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  STAR Plus FHD
+http://pprotv.com:80/asim/asim123456789/59939
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Sports 1 Hindi FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Sports 1 Hindi FHD
+http://pprotv.com:80/asim/asim123456789/59941
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SAB FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SAB FHD
+http://pprotv.com:80/asim/asim123456789/59943
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors FHD
+http://pprotv.com:80/asim/asim123456789/59944
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Cineplex" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Cineplex
+http://pprotv.com:80/asim/asim123456789/59945
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  The Q" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  The Q
+http://pprotv.com:80/asim/asim123456789/59946
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY WAH" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY WAH
+http://pprotv.com:80/asim/asim123456789/59947
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Cineplex FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Cineplex FHD
+http://pprotv.com:80/asim/asim123456789/59948
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY MAX FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY MAX FHD
+http://pprotv.com:80/asim/asim123456789/59949
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 1 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY TEN 1 FHD
+http://pprotv.com:80/asim/asim123456789/59950
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Food Food" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Food Food
+http://pprotv.com:80/asim/asim123456789/59951
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  EPIC" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  EPIC
+http://pprotv.com:80/asim/asim123456789/59952
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Cinema
+http://pprotv.com:80/asim/asim123456789/59953
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MN+ FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MN+ FHD
+http://pprotv.com:80/asim/asim123456789/59954
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sangeet Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sangeet Bangla
+http://pprotv.com:80/asim/asim123456789/59955
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Cartoon Network" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Cartoon Network
+http://pprotv.com:80/asim/asim123456789/59956
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Ruposhi Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Ruposhi Bangla
+http://pprotv.com:80/asim/asim123456789/59938
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Animal Planet FHD World" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Animal Planet FHD World
+http://pprotv.com:80/asim/asim123456789/59957
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Bangla FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Bangla FHD
+http://pprotv.com:80/asim/asim123456789/59958
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Plus
+http://pprotv.com:80/asim/asim123456789/59959
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Khushboo Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Khushboo Bangla
+http://pprotv.com:80/asim/asim123456789/59960
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY BBC Earth FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY BBC Earth FHD
+http://pprotv.com:80/asim/asim123456789/59961
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Bangla FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Bangla FHD
+http://pprotv.com:80/asim/asim123456789/59962
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Isaiaruvi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Isaiaruvi
+http://pprotv.com:80/asim/asim123456789/59963
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Showbox" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Showbox
+http://pprotv.com:80/asim/asim123456789/59964
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Dhinchaak" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Dhinchaak
+http://pprotv.com:80/asim/asim123456789/59965
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Mega TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Mega TV
+http://pprotv.com:80/asim/asim123456789/59966
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Surya TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Surya TV
+http://pprotv.com:80/asim/asim123456789/59967
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Asianet FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Asianet FHD
+http://pprotv.com:80/asim/asim123456789/59968
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Asianet Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Asianet Movies
+http://pprotv.com:80/asim/asim123456789/59969
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Discovery FHD World" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Discovery FHD World
+http://pprotv.com:80/asim/asim123456789/59970
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Nat Geo Wild FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Nat Geo Wild FHD
+http://pprotv.com:80/asim/asim123456789/59971
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Travelxp Tamil" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Travelxp Tamil
+http://pprotv.com:80/asim/asim123456789/59972
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 2 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY TEN 2 FHD
+http://pprotv.com:80/asim/asim123456789/59973
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Suvarna FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Suvarna FHD
+http://pprotv.com:80/asim/asim123456789/59974
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sri Sankara TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sri Sankara TV
+http://pprotv.com:80/asim/asim123456789/59975
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Travelxp FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Travelxp FHD
+http://pprotv.com:80/asim/asim123456789/59976
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Suvarna Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Suvarna Plus
+http://pprotv.com:80/asim/asim123456789/59977
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  PTC Punjabi Gold" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  PTC Punjabi Gold
+http://pprotv.com:80/asim/asim123456789/59978
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Aaj Tak FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Aaj Tak FHD
+http://pprotv.com:80/asim/asim123456789/59979
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD News
+http://pprotv.com:80/asim/asim123456789/59980
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Saptagiri" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Saptagiri
+http://pprotv.com:80/asim/asim123456789/59981
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Bangla
+http://pprotv.com:80/asim/asim123456789/59982
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 India" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 India
+http://pprotv.com:80/asim/asim123456789/59983
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Infinity FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Infinity FHD
+http://pprotv.com:80/asim/asim123456789/59984
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Kannada FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Kannada FHD
+http://pprotv.com:80/asim/asim123456789/59985
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Marathi FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Marathi FHD
+http://pprotv.com:80/asim/asim123456789/59986
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV FHD
+http://pprotv.com:80/asim/asim123456789/59987
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Eurosport FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Eurosport FHD
+http://pprotv.com:80/asim/asim123456789/59988
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  FOX Life FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  FOX Life FHD
+http://pprotv.com:80/asim/asim123456789/59989
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Gemini Movies FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Gemini Movies FHD
+http://pprotv.com:80/asim/asim123456789/59990
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Gemini TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Gemini TV FHD
+http://pprotv.com:80/asim/asim123456789/59991
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jalsha Movies FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jalsha Movies FHD
+http://pprotv.com:80/asim/asim123456789/59992
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jaya TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jaya TV FHD
+http://pprotv.com:80/asim/asim123456789/59993
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  KTV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  KTV FHD
+http://pprotv.com:80/asim/asim123456789/59994
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Mazhavil Manorama FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Mazhavil Manorama FHD
+http://pprotv.com:80/asim/asim123456789/59995
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Movies Now FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Movies Now FHD
+http://pprotv.com:80/asim/asim123456789/59996
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MTV FHD+" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MTV FHD+
+http://pprotv.com:80/asim/asim123456789/59997
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Nick FHD+" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Nick FHD+
+http://pprotv.com:80/asim/asim123456789/59998
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  &pictures FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  &pictures FHD
+http://pprotv.com:80/asim/asim123456789/59999
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY SIX FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY SIX FHD
+http://pprotv.com:80/asim/asim123456789/60000
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY TEN 3 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY TEN 3 FHD
+http://pprotv.com:80/asim/asim123456789/60001
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Bharat FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Bharat FHD
+http://pprotv.com:80/asim/asim123456789/60002
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star GOLD FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star GOLD FHD
+http://pprotv.com:80/asim/asim123456789/60003
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Jalsha FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Jalsha FHD
+http://pprotv.com:80/asim/asim123456789/60004
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  STAR Maa FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  STAR Maa FHD
+http://pprotv.com:80/asim/asim123456789/60005
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Maa Movies FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Maa Movies FHD
+http://pprotv.com:80/asim/asim123456789/60006
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Pravah FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Pravah FHD
+http://pprotv.com:80/asim/asim123456789/60007
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Sports 1 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Sports 1 FHD
+http://pprotv.com:80/asim/asim123456789/60008
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Sports 2 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Sports 2 FHD
+http://pprotv.com:80/asim/asim123456789/60009
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Sports Select 1 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Sports Select 1 FHD
+http://pprotv.com:80/asim/asim123456789/60010
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Sports Select 2 FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Sports Select 2 FHD
+http://pprotv.com:80/asim/asim123456789/60011
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Vijay FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Vijay FHD
+http://pprotv.com:80/asim/asim123456789/60012
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sun TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sun TV FHD
+http://pprotv.com:80/asim/asim123456789/60013
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TLC FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TLC FHD
+http://pprotv.com:80/asim/asim123456789/60014
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  &tv FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  &tv FHD
+http://pprotv.com:80/asim/asim123456789/60015
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Udaya TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Udaya TV FHD
+http://pprotv.com:80/asim/asim123456789/60016
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Cinema FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Cinema FHD
+http://pprotv.com:80/asim/asim123456789/60017
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Cinemalu FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Cinemalu FHD
+http://pprotv.com:80/asim/asim123456789/60018
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Marathi FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Marathi FHD
+http://pprotv.com:80/asim/asim123456789/60019
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Talkies FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Talkies FHD
+http://pprotv.com:80/asim/asim123456789/60020
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Tamil FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Tamil FHD
+http://pprotv.com:80/asim/asim123456789/60021
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Telugu FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Telugu FHD
+http://pprotv.com:80/asim/asim123456789/60022
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee TV FHD
+http://pprotv.com:80/asim/asim123456789/60023
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Baby TV FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Baby TV FHD
+http://pprotv.com:80/asim/asim123456789/60024
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  1sports" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  1sports
+http://pprotv.com:80/asim/asim123456789/60025
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  4tv News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  4tv News
+http://pprotv.com:80/asim/asim123456789/60026
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  9X Jalwa" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  9X Jalwa
+http://pprotv.com:80/asim/asim123456789/60027
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  9X Jhakaas" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  9X Jhakaas
+http://pprotv.com:80/asim/asim123456789/60028
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  9XM" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  9XM
+http://pprotv.com:80/asim/asim123456789/60029
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  9X Tashan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  9X Tashan
+http://pprotv.com:80/asim/asim123456789/60030
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Aakaash Aath" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Aakaash Aath
+http://pprotv.com:80/asim/asim123456789/60031
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Aastha" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Aastha
+http://pprotv.com:80/asim/asim123456789/60032
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Aastha Bhajan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Aastha Bhajan
+http://pprotv.com:80/asim/asim123456789/60033
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ABN Andhra Jyothy" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ABN Andhra Jyothy
+http://pprotv.com:80/asim/asim123456789/60034
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ABP Ananda" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ABP Ananda
+http://pprotv.com:80/asim/asim123456789/60035
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ABP Asmita" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ABP Asmita
+http://pprotv.com:80/asim/asim123456789/60036
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ABP Majha" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ABP Majha
+http://pprotv.com:80/asim/asim123456789/60037
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ABP News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ABP News
+http://pprotv.com:80/asim/asim123456789/60038
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Alankar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Alankar
+http://pprotv.com:80/asim/asim123456789/60039
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Al Jazeera" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Al Jazeera
+http://pprotv.com:80/asim/asim123456789/60040
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Amrita TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Amrita TV
+http://pprotv.com:80/asim/asim123456789/60041
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ANB NEWS" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ANB NEWS
+http://pprotv.com:80/asim/asim123456789/60042
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  APN News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  APN News
+http://pprotv.com:80/asim/asim123456789/60043
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Arihant" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Arihant
+http://pprotv.com:80/asim/asim123456789/60044
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Asianet News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Asianet News
+http://pprotv.com:80/asim/asim123456789/60045
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Asianet Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Asianet Plus
+http://pprotv.com:80/asim/asim123456789/60046
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Australia Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Australia Plus
+http://pprotv.com:80/asim/asim123456789/60047
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  B4U Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  B4U Movies
+http://pprotv.com:80/asim/asim123456789/60048
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  B4U Music" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  B4U Music
+http://pprotv.com:80/asim/asim123456789/60049
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  BBC World" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  BBC World
+http://pprotv.com:80/asim/asim123456789/60050
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Bflix Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Bflix Movies
+http://pprotv.com:80/asim/asim123456789/60051
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Bhakti TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Bhakti TV
+http://pprotv.com:80/asim/asim123456789/60052
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Bharat Samachar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Bharat Samachar
+http://pprotv.com:80/asim/asim123456789/60053
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Bhojpuri Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Bhojpuri Cinema
+http://pprotv.com:80/asim/asim123456789/60054
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Big Ganga" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Big Ganga
+http://pprotv.com:80/asim/asim123456789/60055
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Big Magic" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Big Magic
+http://pprotv.com:80/asim/asim123456789/60056
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Boogle Bollywood" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Boogle Bollywood
+http://pprotv.com:80/asim/asim123456789/60057
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Calcutta News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Calcutta News
+http://pprotv.com:80/asim/asim123456789/60058
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CBeeBies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CBeeBies
+http://pprotv.com:80/asim/asim123456789/60059
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Channel News Asia" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Channel News Asia
+http://pprotv.com:80/asim/asim123456789/60060
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Chardikla Time TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Chardikla Time TV
+http://pprotv.com:80/asim/asim123456789/60061
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Cinema TV India" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Cinema TV India
+http://pprotv.com:80/asim/asim123456789/60062
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CNBC Awaaz" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CNBC Awaaz
+http://pprotv.com:80/asim/asim123456789/60063
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CNBC Bajaar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CNBC Bajaar
+http://pprotv.com:80/asim/asim123456789/60064
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CNBC-TV18" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CNBC-TV18
+http://pprotv.com:80/asim/asim123456789/60065
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CNN" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CNN
+http://pprotv.com:80/asim/asim123456789/60066
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CNN News18" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CNN News18
+http://pprotv.com:80/asim/asim123456789/60067
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Gujarati" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Gujarati
+http://pprotv.com:80/asim/asim123456789/60068
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Gujarati Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Gujarati Cinema
+http://pprotv.com:80/asim/asim123456789/60069
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Kannada Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Kannada Cinema
+http://pprotv.com:80/asim/asim123456789/60070
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Oriya" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Oriya
+http://pprotv.com:80/asim/asim123456789/60071
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors SUPER" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors SUPER
+http://pprotv.com:80/asim/asim123456789/60072
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Colors Tamil" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Colors Tamil
+http://pprotv.com:80/asim/asim123456789/60073
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  CTVN AKD Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  CTVN AKD Plus
+http://pprotv.com:80/asim/asim123456789/60074
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Dangal" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Dangal
+http://pprotv.com:80/asim/asim123456789/60075
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Bangla
+http://pprotv.com:80/asim/asim123456789/60076
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Bharati" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Bharati
+http://pprotv.com:80/asim/asim123456789/60077
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Bihar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Bihar
+http://pprotv.com:80/asim/asim123456789/60078
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Chandana" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Chandana
+http://pprotv.com:80/asim/asim123456789/60079
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Girnar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Girnar
+http://pprotv.com:80/asim/asim123456789/60080
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD India" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD India
+http://pprotv.com:80/asim/asim123456789/60081
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Kashir" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Kashir
+http://pprotv.com:80/asim/asim123456789/60082
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Kisan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Kisan
+http://pprotv.com:80/asim/asim123456789/60083
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Madhya Pradesh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Madhya Pradesh
+http://pprotv.com:80/asim/asim123456789/60084
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Malayalam" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Malayalam
+http://pprotv.com:80/asim/asim123456789/60085
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD National" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD National
+http://pprotv.com:80/asim/asim123456789/60086
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD North East" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD North East
+http://pprotv.com:80/asim/asim123456789/60087
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Odia" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Odia
+http://pprotv.com:80/asim/asim123456789/60088
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Podhigai" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Podhigai
+http://pprotv.com:80/asim/asim123456789/60089
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Punjabi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Punjabi
+http://pprotv.com:80/asim/asim123456789/60090
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Rajasthan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Rajasthan
+http://pprotv.com:80/asim/asim123456789/60091
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Retro" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Retro
+http://pprotv.com:80/asim/asim123456789/60092
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Sahyadri" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Sahyadri
+http://pprotv.com:80/asim/asim123456789/60093
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Sports" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Sports
+http://pprotv.com:80/asim/asim123456789/60094
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Uttar Pradesh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Uttar Pradesh
+http://pprotv.com:80/asim/asim123456789/60095
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DD Yadagiri" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DD Yadagiri
+http://pprotv.com:80/asim/asim123456789/60096
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Discovery Kids" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Discovery Kids
+http://pprotv.com:80/asim/asim123456789/60097
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Discovery Science" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Discovery Science
+http://pprotv.com:80/asim/asim123456789/60098
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Discovery Turbo" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Discovery Turbo
+http://pprotv.com:80/asim/asim123456789/60099
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Disha TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Disha TV
+http://pprotv.com:80/asim/asim123456789/60100
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Dishum" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Dishum
+http://pprotv.com:80/asim/asim123456789/60101
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Disney" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Disney
+http://pprotv.com:80/asim/asim123456789/60102
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Disney Junior" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Disney Junior
+http://pprotv.com:80/asim/asim123456789/60103
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DIVYA" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DIVYA
+http://pprotv.com:80/asim/asim123456789/60104
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  D Tamil" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  D Tamil
+http://pprotv.com:80/asim/asim123456789/60105
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DW" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DW
+http://pprotv.com:80/asim/asim123456789/60106
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  DY 365" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  DY 365
+http://pprotv.com:80/asim/asim123456789/60107
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  E24" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  E24
+http://pprotv.com:80/asim/asim123456789/60108
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Ek Onkar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Ek Onkar
+http://pprotv.com:80/asim/asim123456789/60109
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Enterr10 Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Enterr10 Movies
+http://pprotv.com:80/asim/asim123456789/60110
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ET NOW" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ET NOW
+http://pprotv.com:80/asim/asim123456789/60111
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Abhiruchi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Abhiruchi
+http://pprotv.com:80/asim/asim123456789/60112
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Andhra Pradesh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Andhra Pradesh
+http://pprotv.com:80/asim/asim123456789/60113
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Life" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Life
+http://pprotv.com:80/asim/asim123456789/60114
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ETV Telengana" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ETV Telengana
+http://pprotv.com:80/asim/asim123456789/60115
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Eurosport" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Eurosport
+http://pprotv.com:80/asim/asim123456789/60116
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Fakt Marathi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Fakt Marathi
+http://pprotv.com:80/asim/asim123456789/60117
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Fashion TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Fashion TV
+http://pprotv.com:80/asim/asim123456789/60118
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Fateh TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Fateh TV
+http://pprotv.com:80/asim/asim123456789/60119
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  First India Rajasthan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  First India Rajasthan
+http://pprotv.com:80/asim/asim123456789/60120
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Flowers" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Flowers
+http://pprotv.com:80/asim/asim123456789/60121
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  France 24" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  France 24
+http://pprotv.com:80/asim/asim123456789/60122
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  GOOD TiMES" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  GOOD TiMES
+http://pprotv.com:80/asim/asim123456789/60123
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Gujarat Samachar TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Gujarat Samachar TV
+http://pprotv.com:80/asim/asim123456789/60124
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Hindu Dharmam" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Hindu Dharmam
+http://pprotv.com:80/asim/asim123456789/60125
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  HM TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  HM TV
+http://pprotv.com:80/asim/asim123456789/60126
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  IBC 24" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  IBC 24
+http://pprotv.com:80/asim/asim123456789/60127
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News
+http://pprotv.com:80/asim/asim123456789/60128
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News Gujarat" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News Gujarat
+http://pprotv.com:80/asim/asim123456789/60129
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News MP CH" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News MP CH
+http://pprotv.com:80/asim/asim123456789/60130
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News Punjab" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News Punjab
+http://pprotv.com:80/asim/asim123456789/60131
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News Rajasthan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News Rajasthan
+http://pprotv.com:80/asim/asim123456789/60132
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India News UP UK" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India News UP UK
+http://pprotv.com:80/asim/asim123456789/60133
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  INDIA TODAY" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  INDIA TODAY
+http://pprotv.com:80/asim/asim123456789/60134
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India TV
+http://pprotv.com:80/asim/asim123456789/60135
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  India Voice" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  India Voice
+http://pprotv.com:80/asim/asim123456789/60136
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Indradhanu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Indradhanu
+http://pprotv.com:80/asim/asim123456789/60137
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  INH 24X7" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  INH 24X7
+http://pprotv.com:80/asim/asim123456789/60138
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Insync" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Insync
+http://pprotv.com:80/asim/asim123456789/60139
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Investigation Discovery" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Investigation Discovery
+http://pprotv.com:80/asim/asim123456789/60140
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  ISKCON Mumbai" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  ISKCON Mumbai
+http://pprotv.com:80/asim/asim123456789/60141
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jalsha Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jalsha Movies
+http://pprotv.com:80/asim/asim123456789/60142
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jantantra" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jantantra
+http://pprotv.com:80/asim/asim123456789/60143
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jaya Max" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jaya Max
+http://pprotv.com:80/asim/asim123456789/60144
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Jaya Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Jaya Plus
+http://pprotv.com:80/asim/asim123456789/60145
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  J Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  J Movies
+http://pprotv.com:80/asim/asim123456789/60146
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kairali News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kairali News
+http://pprotv.com:80/asim/asim123456789/60147
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kairali TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kairali TV
+http://pprotv.com:80/asim/asim123456789/60148
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kalaignar TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kalaignar TV
+http://pprotv.com:80/asim/asim123456789/60149
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kalinga TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kalinga TV
+http://pprotv.com:80/asim/asim123456789/60150
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kanak News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kanak News
+http://pprotv.com:80/asim/asim123456789/60151
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kappa TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kappa TV
+http://pprotv.com:80/asim/asim123456789/60152
+#EXTINF:-1 tvg-id="" tvg-name="Varanasi" tvg-logo="" group-title="SKY TATA",Varanasi
+http://pprotv.com:80/asim/asim123456789/60153
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kasthuri" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kasthuri
+http://pprotv.com:80/asim/asim123456789/60154
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Kolkata TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Kolkata TV
+http://pprotv.com:80/asim/asim123456789/60155
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Lok Sabha TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Lok Sabha TV
+http://pprotv.com:80/asim/asim123456789/60156
+#EXTINF:-1 tvg-id="" tvg-name="Ujjain" tvg-logo="" group-title="SKY TATA",Ujjain
+http://pprotv.com:80/asim/asim123456789/60157
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Makkal TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Makkal TV
+http://pprotv.com:80/asim/asim123456789/60158
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MalaiMurasu Seithigal" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MalaiMurasu Seithigal
+http://pprotv.com:80/asim/asim123456789/60159
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Manjari" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Manjari
+http://pprotv.com:80/asim/asim123456789/60160
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Manorama News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Manorama News
+http://pprotv.com:80/asim/asim123456789/60161
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Manoranjan TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Manoranjan TV
+http://pprotv.com:80/asim/asim123456789/60162
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MARVEL HQ" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MARVEL HQ
+http://pprotv.com:80/asim/asim123456789/60163
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Mastiii" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Mastiii
+http://pprotv.com:80/asim/asim123456789/60164
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Mathrubhumi News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Mathrubhumi News
+http://pprotv.com:80/asim/asim123456789/60165
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MH One" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MH One
+http://pprotv.com:80/asim/asim123456789/60166
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MH One News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MH One News
+http://pprotv.com:80/asim/asim123456789/60167
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MH One Shraddha" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MH One Shraddha
+http://pprotv.com:80/asim/asim123456789/60168
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  MIRROR NOW" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  MIRROR NOW
+http://pprotv.com:80/asim/asim123456789/60169
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Murasu TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Murasu TV
+http://pprotv.com:80/asim/asim123456789/60170
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  NDTV 24x7" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  NDTV 24x7
+http://pprotv.com:80/asim/asim123456789/60171
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  NDTV India" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  NDTV India
+http://pprotv.com:80/asim/asim123456789/60172
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  NDTV Profit Prime" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  NDTV Profit Prime
+http://pprotv.com:80/asim/asim123456789/60173
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Nepal 1" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Nepal 1
+http://pprotv.com:80/asim/asim123456789/60174
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News11 Bharat" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News11 Bharat
+http://pprotv.com:80/asim/asim123456789/60175
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Assam North East" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Assam North East
+http://pprotv.com:80/asim/asim123456789/60176
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Bihar Jharkhand" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Bihar Jharkhand
+http://pprotv.com:80/asim/asim123456789/60177
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Gujarati" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Gujarati
+http://pprotv.com:80/asim/asim123456789/60178
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Kannada
+http://pprotv.com:80/asim/asim123456789/60179
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Kerala" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Kerala
+http://pprotv.com:80/asim/asim123456789/60180
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Lokmat" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Lokmat
+http://pprotv.com:80/asim/asim123456789/60181
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Madhya Pradesh Chhattisgarh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Madhya Pradesh Chhattisgarh
+http://pprotv.com:80/asim/asim123456789/60182
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Odia" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Odia
+http://pprotv.com:80/asim/asim123456789/60183
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Punjab Haryana Himachal" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Punjab Haryana Himachal
+http://pprotv.com:80/asim/asim123456789/60184
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Rajasthan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Rajasthan
+http://pprotv.com:80/asim/asim123456789/60185
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Tamil Nadu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Tamil Nadu
+http://pprotv.com:80/asim/asim123456789/60186
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Urdu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Urdu
+http://pprotv.com:80/asim/asim123456789/60187
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News18 Uttar Pradesh Uttarakhand" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News18 Uttar Pradesh Uttarakhand
+http://pprotv.com:80/asim/asim123456789/60188
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News 24" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News 24
+http://pprotv.com:80/asim/asim123456789/60189
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News 7 Tamil" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News 7 Tamil
+http://pprotv.com:80/asim/asim123456789/60190
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News Live" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News Live
+http://pprotv.com:80/asim/asim123456789/60191
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News Nation" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News Nation
+http://pprotv.com:80/asim/asim123456789/60192
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News State MP CG" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News State MP CG
+http://pprotv.com:80/asim/asim123456789/60193
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News State UP Uttarakhand" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News State UP Uttarakhand
+http://pprotv.com:80/asim/asim123456789/60194
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  News Time Bangla" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  News Time Bangla
+http://pprotv.com:80/asim/asim123456789/60195
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  NewsX" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  NewsX
+http://pprotv.com:80/asim/asim123456789/60196
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Nick" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Nick
+http://pprotv.com:80/asim/asim123456789/60197
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Nick Jr" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Nick Jr
+http://pprotv.com:80/asim/asim123456789/60198
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  North East Live" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  North East Live
+http://pprotv.com:80/asim/asim123456789/60199
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  NTV Telugu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  NTV Telugu
+http://pprotv.com:80/asim/asim123456789/60200
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  OTV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  OTV
+http://pprotv.com:80/asim/asim123456789/60201
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Paras TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Paras TV
+http://pprotv.com:80/asim/asim123456789/60202
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Patrika TV Rajasthan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Patrika TV Rajasthan
+http://pprotv.com:80/asim/asim123456789/60203
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Peace of Mind" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Peace of Mind
+http://pprotv.com:80/asim/asim123456789/60204
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Peppers TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Peppers TV
+http://pprotv.com:80/asim/asim123456789/60205
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  &pictures" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  &pictures
+http://pprotv.com:80/asim/asim123456789/60206
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Pitaara TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Pitaara TV
+http://pprotv.com:80/asim/asim123456789/60207
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Pogo" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Pogo
+http://pprotv.com:80/asim/asim123456789/60208
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Polimer News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Polimer News
+http://pprotv.com:80/asim/asim123456789/60209
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Polimer TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Polimer TV
+http://pprotv.com:80/asim/asim123456789/60210
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Prag News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Prag News
+http://pprotv.com:80/asim/asim123456789/60211
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Prarthana TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Prarthana TV
+http://pprotv.com:80/asim/asim123456789/60212
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Protidin Time" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Protidin Time
+http://pprotv.com:80/asim/asim123456789/60213
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Prudent" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Prudent
+http://pprotv.com:80/asim/asim123456789/60214
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  PTC Chak De" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  PTC Chak De
+http://pprotv.com:80/asim/asim123456789/60215
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  PTC News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  PTC News
+http://pprotv.com:80/asim/asim123456789/60216
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  PTC Punjabi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  PTC Punjabi
+http://pprotv.com:80/asim/asim123456789/60217
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Public Music" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Public Music
+http://pprotv.com:80/asim/asim123456789/60218
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Public TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Public TV
+http://pprotv.com:80/asim/asim123456789/60219
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj Digital Plus" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj Digital Plus
+http://pprotv.com:80/asim/asim123456789/60220
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj Musix Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj Musix Kannada
+http://pprotv.com:80/asim/asim123456789/60221
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj Musix Malayalam" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj Musix Malayalam
+http://pprotv.com:80/asim/asim123456789/60222
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj Musix Telugu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj Musix Telugu
+http://pprotv.com:80/asim/asim123456789/60223
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj News Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj News Kannada
+http://pprotv.com:80/asim/asim123456789/60224
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj News Malayalam" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj News Malayalam
+http://pprotv.com:80/asim/asim123456789/60225
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj News Telugu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj News Telugu
+http://pprotv.com:80/asim/asim123456789/60226
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Raj TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Raj TV
+http://pprotv.com:80/asim/asim123456789/60227
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Rajya Sabha" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Rajya Sabha
+http://pprotv.com:80/asim/asim123456789/60228
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Ramdhenu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Ramdhenu
+http://pprotv.com:80/asim/asim123456789/60229
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Rang" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Rang
+http://pprotv.com:80/asim/asim123456789/60230
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  R.Bharat" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  R.Bharat
+http://pprotv.com:80/asim/asim123456789/60231
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Rengoni TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Rengoni TV
+http://pprotv.com:80/asim/asim123456789/60232
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  REPUBLIC TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  REPUBLIC TV
+http://pprotv.com:80/asim/asim123456789/60233
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Russia Today" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Russia Today
+http://pprotv.com:80/asim/asim123456789/60234
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Saam TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Saam TV
+http://pprotv.com:80/asim/asim123456789/60235
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sadhna TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sadhna TV
+http://pprotv.com:80/asim/asim123456789/60236
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sakshi TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sakshi TV
+http://pprotv.com:80/asim/asim123456789/60237
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sandesh News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sandesh News
+http://pprotv.com:80/asim/asim123456789/60238
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sangeet Marathi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sangeet Marathi
+http://pprotv.com:80/asim/asim123456789/60239
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sanskar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sanskar
+http://pprotv.com:80/asim/asim123456789/60240
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Shalom TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Shalom TV
+http://pprotv.com:80/asim/asim123456789/60241
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Shemaroo MarathiBana" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Shemaroo MarathiBana
+http://pprotv.com:80/asim/asim123456789/60242
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Shemaroo TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Shemaroo TV
+http://pprotv.com:80/asim/asim123456789/60243
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Shirdi Sai Baba" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Shirdi Sai Baba
+http://pprotv.com:80/asim/asim123456789/60244
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Shubh TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Shubh TV
+http://pprotv.com:80/asim/asim123456789/60245
+#EXTINF:-1 tvg-id="" tvg-name="Mumbai" tvg-logo="" group-title="SKY TATA",Mumbai
+http://pprotv.com:80/asim/asim123456789/60246
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sirippoli" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sirippoli
+http://pprotv.com:80/asim/asim123456789/60247
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Somnath Temple" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Somnath Temple
+http://pprotv.com:80/asim/asim123456789/60248
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sonic Nickelodeon" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sonic Nickelodeon
+http://pprotv.com:80/asim/asim123456789/60249
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY AATH" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY AATH
+http://pprotv.com:80/asim/asim123456789/60250
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY MARATHI" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY MARATHI
+http://pprotv.com:80/asim/asim123456789/60251
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY  MAX" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY  MAX
+http://pprotv.com:80/asim/asim123456789/60252
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY MAX 2" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY MAX 2
+http://pprotv.com:80/asim/asim123456789/60253
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY YAY!" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY YAY!
+http://pprotv.com:80/asim/asim123456789/60254
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Star Maa Gold" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Star Maa Gold
+http://pprotv.com:80/asim/asim123456789/60255
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Subharti TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Subharti TV
+http://pprotv.com:80/asim/asim123456789/60256
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Sudarshan News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Sudarshan News
+http://pprotv.com:80/asim/asim123456789/60257
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Surya Bhojpuri" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Surya Bhojpuri
+http://pprotv.com:80/asim/asim123456789/60258
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Surya Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Surya Cinema
+http://pprotv.com:80/asim/asim123456789/60259
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Surya Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Surya Movies
+http://pprotv.com:80/asim/asim123456789/60260
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SVBC 2" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SVBC 2
+http://pprotv.com:80/asim/asim123456789/60261
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SVBC Telugu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SVBC Telugu
+http://pprotv.com:80/asim/asim123456789/60262
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tarang Music" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tarang Music
+http://pprotv.com:80/asim/asim123456789/60263
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tarang TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tarang TV
+http://pprotv.com:80/asim/asim123456789/60264
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TEZ" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TEZ
+http://pprotv.com:80/asim/asim123456789/60269
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Thanthi TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Thanthi TV
+http://pprotv.com:80/asim/asim123456789/60270
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Times Now World" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Times Now World
+http://pprotv.com:80/asim/asim123456789/60271
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  T News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  T News
+http://pprotv.com:80/asim/asim123456789/60272
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV5 Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV5 Kannada
+http://pprotv.com:80/asim/asim123456789/60273
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV5 Monde Asie" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV5 Monde Asie
+http://pprotv.com:80/asim/asim123456789/60274
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV5 News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV5 News
+http://pprotv.com:80/asim/asim123456789/60275
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV9 Bharatvarsh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV9 Bharatvarsh
+http://pprotv.com:80/asim/asim123456789/60276
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV9 Gujarati" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV9 Gujarati
+http://pprotv.com:80/asim/asim123456789/60277
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV9 Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV9 Kannada
+http://pprotv.com:80/asim/asim123456789/60278
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV9 Marathi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV9 Marathi
+http://pprotv.com:80/asim/asim123456789/60279
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  TV9 Telugu" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  TV9 Telugu
+http://pprotv.com:80/asim/asim123456789/60280
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Udaya Movies" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Udaya Movies
+http://pprotv.com:80/asim/asim123456789/60281
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  UTV Bindass" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  UTV Bindass
+http://pprotv.com:80/asim/asim123456789/60282
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  V6 News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  V6 News
+http://pprotv.com:80/asim/asim123456789/60283
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Vasanth TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Vasanth TV
+http://pprotv.com:80/asim/asim123456789/60284
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Vedic" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Vedic
+http://pprotv.com:80/asim/asim123456789/60285
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  VTV Gujarati" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  VTV Gujarati
+http://pprotv.com:80/asim/asim123456789/60286
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  We TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  We TV
+http://pprotv.com:80/asim/asim123456789/60287
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  WION" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  WION
+http://pprotv.com:80/asim/asim123456789/60288
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee 24 Ghanta" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee 24 Ghanta
+http://pprotv.com:80/asim/asim123456789/60289
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee 24 Kalak" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee 24 Kalak
+http://pprotv.com:80/asim/asim123456789/60290
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee 24 Taas" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee 24 Taas
+http://pprotv.com:80/asim/asim123456789/60291
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Action" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Action
+http://pprotv.com:80/asim/asim123456789/60292
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Anmol Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Anmol Cinema
+http://pprotv.com:80/asim/asim123456789/60293
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Bangla Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Bangla Cinema
+http://pprotv.com:80/asim/asim123456789/60294
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Bihar Jharkhand" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Bihar Jharkhand
+http://pprotv.com:80/asim/asim123456789/60295
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Biskope" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Biskope
+http://pprotv.com:80/asim/asim123456789/60296
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Bollywood" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Bollywood
+http://pprotv.com:80/asim/asim123456789/60297
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Business" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Business
+http://pprotv.com:80/asim/asim123456789/60298
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Cinema" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Cinema
+http://pprotv.com:80/asim/asim123456789/60299
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Hindustan" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Hindustan
+http://pprotv.com:80/asim/asim123456789/60300
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Kannada" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Kannada
+http://pprotv.com:80/asim/asim123456789/60301
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Keralam" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Keralam
+http://pprotv.com:80/asim/asim123456789/60302
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Madhya Pradesh Chattisgarh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Madhya Pradesh Chattisgarh
+http://pprotv.com:80/asim/asim123456789/60303
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee News
+http://pprotv.com:80/asim/asim123456789/60304
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Odisha" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Odisha
+http://pprotv.com:80/asim/asim123456789/60305
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Picchar" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Picchar
+http://pprotv.com:80/asim/asim123456789/60306
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Punjab Haryana Himachal Pradesh" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Punjab Haryana Himachal Pradesh
+http://pprotv.com:80/asim/asim123456789/60307
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Punjabi" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Punjabi
+http://pprotv.com:80/asim/asim123456789/60308
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Rajasthan News" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Rajasthan News
+http://pprotv.com:80/asim/asim123456789/60309
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Sarthak" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Sarthak
+http://pprotv.com:80/asim/asim123456789/60310
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Thirai" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Thirai
+http://pprotv.com:80/asim/asim123456789/60311
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee TV" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee TV
+http://pprotv.com:80/asim/asim123456789/60312
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee Uttar Pradesh Uttarakhand" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee Uttar Pradesh Uttarakhand
+http://pprotv.com:80/asim/asim123456789/60313
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zee YUVA" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zee YUVA
+http://pprotv.com:80/asim/asim123456789/60314
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zing" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zing
+http://pprotv.com:80/asim/asim123456789/60315
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Zoom" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Zoom
+http://pprotv.com:80/asim/asim123456789/60316
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SET FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SET FHD
+http://pprotv.com:80/asim/asim123456789/59940
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  SONY PIX FHD" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  SONY PIX FHD
+http://pprotv.com:80/asim/asim123456789/59942
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tata Sky Bhojpuri Sanima" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tata Sky Bhojpuri Sanima
+http://pprotv.com:80/asim/asim123456789/60265
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tata Sky CuriosityStream" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tata Sky CuriosityStream
+http://pprotv.com:80/asim/asim123456789/60266
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tata Sky Family Health" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tata Sky Family Health
+http://pprotv.com:80/asim/asim123456789/60267
+#EXTINF:-1 tvg-id="" tvg-name="TATA |  Tata Sky Show Bizz" tvg-logo="http://rockets.ws/logo/tata.png" group-title="SKY TATA",TATA |  Tata Sky Show Bizz
+http://pprotv.com:80/asim/asim123456789/60268
 
 
