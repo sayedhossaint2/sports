@@ -15,9 +15,8 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Zee Anmol
 http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Hindi",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", B4U flix
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", 9XM Tv
@@ -55,118 +54,22 @@ http://208.86.19.21/716.stream/tracks-v1a1/mono.m3u8
 
 ###Sports###
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony ten 1 HD
-http://208.86.19.21:80/726.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony ten 1 SD
-http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Gold Select HD
-http://208.86.19.21:80/709.stream/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", T Sports
+http://live.flixhub.net/hls/t-sports.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",G TV
+http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports 1 HD
-http://208.86.19.21/724.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Ten Sports
-http://208.86.19.21:80/711.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony ten 2
-http://208.86.19.21/712.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Ten 3
-http://208.86.19.21:80/713.stream/index.m3u8
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",G TV Jadoo
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1644873787&md5=Y26qHCkqMOqO6EMoEe7KNQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony ten 1
+http://live.flixhub.net/hls/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Ten 2
+http://live.flixhub.net/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports 2
-http://208.86.19.21:80/715.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports Select 1 HD
-http://208.86.19.21:80/736.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports Select 2 HD
-http://208.86.19.21:80/737.stream/index.m3u8
+http://live.flixhub.net/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sony Six HD
-http://208.86.19.21:80/740.stream/index.m3u8 
-
-################
-
-
-#EXTINF:-1 tvg-logo="" group-title=" ", MASTI
-http://103.161.2.142/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", ATN
-http://103.161.2.142/hls/atn.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", AXN
-http://103.161.2.142/hls/axn.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", BANGLAVISION
-http://103.161.2.142/hls/banglavision.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", BBCWORLD
-http://103.161.2.142/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", BOISHAKHI
-http://103.161.2.142/hls/boishakhi.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", CHANNEL 24
-http://103.161.2.142/hls/channel24.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", CHANNEL 9
-http://103.161.2.142/hls/channel9.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", CHANNEL I
-http://103.161.2.142/hls/channeli.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", CN
-http://103.161.2.142/hls/cn.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", colorsbangla
-http://103.161.2.142/hls/colorsbangla.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", colors cineplex
-http://103.161.2.142/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", DIscovery
-http://103.161.2.142/hls/discovery.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", Duronto
-http://103.161.2.142/hls/duronto.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", enterr10
-http://103.161.2.142/hls/enterr10.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", etv
-http://103.161.2.142/hls/etv.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", jalshamovies
-http://103.161.2.142/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", jamuna
-http://103.161.2.142/hls/jamuna.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", nagoriktv
-http://103.161.2.142/hls/nagoriktv.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", news24
-http://103.161.2.142/hls/news24.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", nexus
-http://103.161.2.142/hls/nexus.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", ntv
-http://103.161.2.142/hls/ntv.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", rtv
-http://103.161.2.142/hls/rtv.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", satv
-http://103.161.2.142/hls/satv.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", SOMOY
-http://103.161.2.142/hls/somoy.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", sonyyay
-http://103.161.2.142/hls/sonyyay.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", sonymax
-http://103.161.2.142/hls/sonymax.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", sonypix
-http://103.161.2.142/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", stargold
-http://103.161.2.142/hls/stargold.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", starmovies
-http://103.161.2.142/hls/starmovies.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", tlc
-http://103.161.2.142/hls/tlc.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", travelxp
-http://103.161.2.142/hls/travelxp.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", wild
-http://103.161.2.142/hls/wild.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", zeebangla
-http://103.161.2.142/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", zeecinema
-http://103.161.2.142/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" ", zoom
-http://103.161.2.142/hls/zoom.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", L A Sports 
-http://221.120.204.4/LOCKLE-A-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", PTV Sports
-http://221.120.204.4/LOCKLE-PTV-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", Geo sports
-http://221.120.204.4/geo-super-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star sports select 1 hd
-http://208.86.19.21/736.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star sports select 2 hd
-http://208.86.19.21/737.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star sports 3
-http://208.86.19.21/732.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star sports 2
-http://84.16.224.202:8080/LE_1/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/sonysix.m3u8
 
 
 #######################TATA#############################
