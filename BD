@@ -8,9 +8,9 @@
 ###Sports###
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", BD vs WI Sports
-https://vkvsd17.mycdn.me/hls/2624116886058.m3u8/sig/W3r3mY3Kn_s/expires/1655488748123/srcIp/45.84.123.93/clientType/13/srcAg/CHROME_ANDROID/mid/3885729655594/2624116886058_high/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports 
-http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=|User-agent=REDLINECLIENT
+https://tanish-sharma.tk/Sportscornergroup/WI/vs/BAN/New.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",BD vs WI2
+http://raax.xyz/SportsCornerGroup/playlist.m3u8?ch=bbtsp1|User-Agent=SportsCornerGroup&Referer=https://noob4cast.com/&cookie=SportsCornerGroup
 #EXTINF:-1 tvg-logo="" group-title="Sports", Jio Cricket 
 http://iptvind.in1.bitmana.io/live.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",G TV Jadoo
