@@ -7,14 +7,14 @@
 
 ###Sports###
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", BD vs WI Sports
-https://tanish-sharma.tk/Sportscornergroup/WI/vs/BAN/New.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Sports 1
+https://tanish-sharma.tk/ENG/VS/SA/LIVE1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",BD vs WI2
-http://raax.xyz/SportsCornerGroup/playlist.m3u8?ch=bbtsp1|User-Agent=SportsCornerGroup&Referer=https://noob4cast.com/&cookie=SportsCornerGroup
+http://31.172.87.52:2200/AFR-EX/SuperSport_Action_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-logo="" group-title="Sports", Jio Cricket 
-http://iptvind.in1.bitmana.io/live.php?c=Jio_Cricket_Hindi&q=800&e=.m3u8
+http://103.151.43.102:8000/play/a00b/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",G TV Jadoo
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1644873787&md5=Y26qHCkqMOqO6EMoEe7KNQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://103.151.43.102:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sony ten 1
 http://live.flixhub.net/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sony Ten 2
