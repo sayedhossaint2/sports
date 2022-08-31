@@ -7,12 +7,12 @@
 
 ###Sports###
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sports 1
-https://tanish-sharma.tk/ENG/VS/SA/LIVE1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",BD vs WI2
-http://31.172.87.52:2200/AFR-EX/SuperSport_Action_FHD-dstv/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-logo="" group-title="Sports", Jio Cricket 
-http://103.151.43.102:8000/play/a00b/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",NagorikTV
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1662147957&md5=t2rO_dLRNnI_FcpSFbLQ7A&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-logo="" group-title="Sports", GTV
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1662148471&md5=eYPNAoS_NzXbl0mcC-iXlQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#EXTINF:-1 tvg-logo="" group-title="Sports", T sports
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1662148548&md5=f_b9XHYlfPmFFN6egE4ZnQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports",G TV Jadoo
 http://103.151.43.102:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Sony ten 1
