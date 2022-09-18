@@ -7,20 +7,20 @@
 
 ###Sports###
 
-#EXTINF:-1 tvg-logo="" group-title="Sports",NagorikTV
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1662147957&md5=t2rO_dLRNnI_FcpSFbLQ7A&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-logo="" group-title="Sports", GTV
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1662148471&md5=eYPNAoS_NzXbl0mcC-iXlQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-logo="" group-title="Sports", T sports
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1662148548&md5=f_b9XHYlfPmFFN6egE4ZnQ&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-logo="" group-title="Sports",G TV Jadoo
-http://103.151.43.102:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony ten 1
-http://live.flixhub.net/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Ten 2
-http://live.flixhub.net/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Star Sports 2
-http://live.flixhub.net/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports",Sony Six HD
-http://live.flixhub.net/hls/sonysix.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports 1
+http://103.16.24.54:8080/channel1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sony pix
+http://103.16.24.54:8080/channel2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", star plus 
+http://103.16.24.54:8080/channel3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",zee Bangla 
+http://103.16.24.54:8080/channel4/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",star jalsha
+http://103.16.24.54:8080/channel5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",& picture 
+http://103.16.24.54:8080/channel6/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sony six
+http://103.16.24.54:8080/channel7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star Bharat 
+http://103.16.24.54:8080/channel8/index.m3u8
 
