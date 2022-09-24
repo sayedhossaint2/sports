@@ -21,6 +21,10 @@ http://103.16.24.54:8080/channel5/index.m3u8
 http://103.16.24.54:8080/channel6/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sony six
 http://103.16.24.54:8080/channel7/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", Sky sports 
+http://116.204.149.11:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Star Bharat 
 http://103.16.24.54:8080/channel8/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports",Star movie 
+http://116.204.149.11:8000/play/a00a/index.m3u8
 
