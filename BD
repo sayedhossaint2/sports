@@ -28,3 +28,49 @@ http://103.16.24.54:8080/channel8/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Star movie 
 http://116.204.149.11:8000/play/a00a/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="SportsNew",Bt sports 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew",Bt sports 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", La liga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Itv 1
+http://93.152.174.144:4000/play/itv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Bt sports 3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Bein sports fr 1
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Bein sports fr 2
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", BBC 2
+http://93.152.174.144:4000/play/bbc2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Bein sports 1 ar
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Cuadro tv
+http://93.152.174.144:4000/play/cuatrosp/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Sic tv
+http://93.152.174.144:4000/play/sic/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew",Sky Sports F1 
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew",Sky Sports 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew",Sky Sports 4
+http://93.152.174.144:4000/play/skysports4/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SportsNew",Energy 
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
+
+
