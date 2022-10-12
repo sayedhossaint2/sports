@@ -21,8 +21,8 @@ http://103.16.24.54:8080/channel5/index.m3u8
 http://103.16.24.54:8080/channel6/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sony six
 http://103.16.24.54:8080/channel7/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Sports", Sky sports 
-http://116.204.149.11:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", A sports 
+http://221.120.204.3/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Star Bharat 
 http://103.16.24.54:8080/channel8/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",Star movie 
@@ -34,35 +34,35 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SportsNew",Bt sports 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SportsNew", La liga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", star plus 
+http://221.120.204.3/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SportsNew", Itv 1
-http://93.152.174.144:4000/play/itv1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Sony hd
+http://221.120.204.3/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SportsNew", Bt sports 3
-http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", National geo
+http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SportsNew", Bein sports fr 1
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Sony Max 
+http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SportsNew", Bein sports fr 2
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", color hd
+http://221.120.204.3/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SportsNew", BBC 2
-http://93.152.174.144:4000/play/bbc2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", color infinity 
+http://221.120.204.3/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SportsNew", Bein sports 1 ar
-http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", ptv sports 
+http://221.120.204.3/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SportsNew", Cuadro tv
-http://93.152.174.144:4000/play/cuatrosp/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Star world 
+http://221.120.204.3/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SportsNew", Sic tv
-http://93.152.174.144:4000/play/sic/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Fox life 
+http://221.120.204.3/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SportsNew",Sky Sports F1 
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SportsNew", Star movie 
+http://221.120.204.3/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SportsNew",Sky Sports 1
 http://93.152.174.144:4000/play/ssports1/index.m3u8
