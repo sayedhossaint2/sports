@@ -8,9 +8,9 @@
 ###Sports###
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports 1
-http://103.16.24.54:8080/channel1/index.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=2BlqUVk2UZ_RS_LAO2fdHA&expires=1666770574&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sony pix
-http://103.16.24.54:8080/channel2/index.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=avTg1S_fpzK8TMBIKj34FQ&expires=1666770757&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports", star plus 
 http://103.16.24.54:8080/channel3/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",zee Bangla 
