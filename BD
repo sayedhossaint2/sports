@@ -12,7 +12,7 @@ https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=2BlqUVk2UZ_RS_L
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sony pix
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=avTg1S_fpzK8TMBIKj34FQ&expires=1666770757&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports", star plus 
-http://103.16.24.54:8080/channel3/index.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=kXhvnulMMQ1imb8jJ_Zs8w&expires=1666799677&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports",zee Bangla 
 http://103.16.24.54:8080/channel4/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",star jalsha
