@@ -7,10 +7,10 @@
 
 ###Sports###
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", Star Sports 1
-https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Sports", T Sports 1
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=yiexWYWM6nQxaW_dkj4LHQ&expires=1677825041&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sony pix
-http://103.157.249.125:201/play/a07c/index.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=Bb1aMPCsXdR7O_sU6mVOyA&expires=1677824954&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports", star plus 
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=KSZWTBkcBAdwVQmVdY1AKw&expires=1667551397&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports",zee Bangla 
@@ -69,8 +69,5 @@ http://93.152.174.144:4000/play/ssports1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SportsNew",Sky Sports 4
 http://93.152.174.144:4000/play/skysports4/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SportsNew",Energy 
-http://93.152.174.144:4000/play/zeeaction/index.m3u8
 
 
