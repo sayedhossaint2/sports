@@ -8,11 +8,11 @@
 ###Sports###
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", T Sports 1
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=yiexWYWM6nQxaW_dkj4LHQ&expires=1677825041&user=ef3b0701f26743a4a12ce79435bc6d0d
+https://eas4.gcdn.co/UKS2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sony pix
-https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=Bb1aMPCsXdR7O_sU6mVOyA&expires=1677824954&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://bcdn.bdixsports.live:1935/live/event.stream/chunklist_w523202090.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", star plus 
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=KSZWTBkcBAdwVQmVdY1AKw&expires=1667551397&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://smartbisnu@bcdn.bdixsports.live:1935/live/event.stream/playlist.m3u8?token=copyc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports",zee Bangla 
 https://edge01.iptv.digijadoo.net/live/gazi_tv/playlist.m3u8?md5=npyG39NkvUAkD34mWb3kAA&expires=1667551570&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports",star jalsha
