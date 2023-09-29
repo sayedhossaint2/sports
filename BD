@@ -8,13 +8,13 @@
 ###Sports###
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", T Sports 1
-http://live.himel-himu.tk/Ban-VS-Afg/Fancode-Worldwide/hls/Himel-OP.m3u8
+https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", Sony pix
-https://dai.fancode.com/primary/76032_english_hls_4097ta-di/index.m3u8
+http://humiptv.live:8080/live/0192838773/9948381838/43444.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", star plus 
 http://smartbisnu@bcdn.bdixsports.live:1935/live/event.stream/playlist.m3u8?token=copyc6d0d
 #EXTINF:-1 tvg-logo="" group-title="Sports",zee Bangla 
-https://ddy1.onlinewebtv.lol/ddy1/premium368/index.m3u8?|referer=https://olacast.live/&e.m3u8c6d0d
+http://humiptv.live:8080/live/0192838773/9948381838/2496.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",star jalsha
 http://163.47.158.62:9990/tsport/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports",& picture 
